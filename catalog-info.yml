@@ -7,6 +7,7 @@ metadata:
     github.com/project-slug: https://github.com/iamranga/NerdDinner
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: website
-  lifecycle: experimental
+  type: service
+  system: NerdDinner
+  lifecycle: production
   owner: user:guest
